@@ -122,7 +122,7 @@ public class ServiceArrayFinal {
 		
 		for(int i = 0; i < arr.length; i++) {
 			if(arr[i] == wantToFind) {
-				System.out.printf("%s에 %c가 존재하는 위치 : %d\n" ,word,wantToFind,i);
+				System.out.printf("%s에 %c가 존재하는 위치 : %d\n" ,word,wantToFind,i, i);
 				count++;
 			}
 		}System.out.print(wantToFind + "개수 : " + count); // 왜 여기서 count가 쌓인 값이 나오는가?? 질문하기  
@@ -180,6 +180,18 @@ public class ServiceArrayFinal {
 		}
 	}
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	public void practicecece2() {
+		System.out.print("asasdasdadasd");
+		
+	}
 }
 	
 	

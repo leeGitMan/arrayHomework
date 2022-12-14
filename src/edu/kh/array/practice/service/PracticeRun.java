@@ -6,7 +6,7 @@ public class PracticeRun {
 		
 		ServiceArrayFinal pa = new ServiceArrayFinal();
 		
-		pa.ArrayPracticeFinal4();
+		pa.ArrayPracticeFinal5();
 		
 		
 
